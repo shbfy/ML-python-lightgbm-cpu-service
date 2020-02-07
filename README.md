@@ -1,4 +1,4 @@
-# ML-python-sklearn-lightgbm-cpu-service
+# ML-python-lightgbm-cpu-service
 
 Quickstart project for executing a Iris classifier using the LightGBM framework on a CPU.
 
